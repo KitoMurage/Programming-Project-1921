@@ -1,0 +1,23 @@
+# Args
+
+No args
+
+# File IO
+
+bad file name
+bad permissions
+Maze height
+Maze width
+row and column same length
+
+# User Input
+
+Error when attemting to move across a wall
+
+
+# Success
+
+Return 'win' message 
+correct user inputs
+correct maze dimensions
+message displayed when player moves into a wall
