@@ -6,6 +6,14 @@
 #define MAX_WIDTH 100
 #define MIN_WIDTH 5
 
+struct maze{
+    int height;
+    int width;
+    int playerX;
+    int playerY;
+    char maze[MAX_HEIGHT][MAX_WIDTH];
+}
+
 int display_maze(){
     /**this function will display the map of the maze and the current possition of the player
     X will be printed out in the location of the player in the matrix**/
