@@ -5,14 +5,14 @@ No args
 # File IO
 
 bad file name
-bad permissions
-Maze height
-Maze width
-row and column same length
 
 # User Input
 
+invalid input
 Error when attemting to move across a wall
+Maze height
+Maze width
+row and column same length
 
 
 # Success
